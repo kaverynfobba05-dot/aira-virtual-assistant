@@ -274,7 +274,7 @@ For example:
 
 \---bash
 
-python main.py.py
+python main.py
 
 \---
 
