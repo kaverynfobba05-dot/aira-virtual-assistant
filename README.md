@@ -218,7 +218,7 @@ This is a conceptual demonstration; it does not train a machine-learning model.
 
 MiniAlexa/
 
-├── main.py.py
+├── main.py
 
 ├── main\_backup
 
